@@ -13,4 +13,5 @@ JavaScript concepts revised:
   7. Using event listeners to listen 'input' event happening in the browser.
   
  Project courtesy to a Udemy course by Brad Traversy: 20 Web Projects With Vanilla JavaScript
+
  Course link: https://www.udemy.com/course/web-projects-with-vanilla-javascript/
