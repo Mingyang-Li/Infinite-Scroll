@@ -2,6 +2,7 @@
 Used async, await and fetch APIs to generate random user data while CSS scrolling animation is made happen.
 
 API used: https://jsonplaceholder.typicode.com
+
 JavaScript concepts revised: 
   1. Async & await, fetch, .json().
   2. Adding and remove HTML classes using element.classList.add(${HTML tag}) and element.classList.remove(${HTML tag}).
